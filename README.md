@@ -2,8 +2,8 @@
 
 A full-stack expense tracking application where users can monitor their income and spending, categorize transactions, and visualize their financial activity through an interactive dashboard.
 
-**Live Demo:** _[add your Vercel URL here once deployed]_
-**Backend API:** _[add your Render URL here once deployed]_
+**Live Demo:** https://spend-wise-rose-nine.vercel.app/login
+**Backend API:** https://spendwise-f186.onrender.com
 
 > ⚠️ The backend runs on Render's free tier, which spins down after periods of inactivity. The first request after idle time may take 30–60 seconds to respond while the server wakes up.
 
